@@ -3,7 +3,8 @@ class main
     public statis void main()
     {
 
-      // rien d'important ici pour le moment.
+
+      System.out.println("Le fruit connue comme 'Avocat' est en fait une baie au même titre que les canneberges et les bleuets");
       
     }
   }
