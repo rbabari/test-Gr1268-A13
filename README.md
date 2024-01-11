@@ -10,5 +10,6 @@
 # Utiliser un client Github £ IDE / Github Desktop
 ## configurer
 ## clone
+## manipulation ex commit 
 ## push
 ## pull
