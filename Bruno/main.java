@@ -1,6 +1,6 @@
-class main
+public class main
   {
-    public statis void main()
+    public static void main(String[] args)
     {
 
       // rien d'important ici pour le moment.
