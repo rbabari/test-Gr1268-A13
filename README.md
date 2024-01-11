@@ -13,3 +13,5 @@
 ## manipulation ex commit 
 ## push
 ## pull
+
+## Pratique pratique pratique  ... 
