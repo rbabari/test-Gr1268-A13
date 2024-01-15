@@ -19,4 +19,4 @@
 # Utiliser le Project
 # Tableau KanBan : ready / inProgress / done
 # milestone : date butoire / échéance
-# issue : tâche à faire / bug à corriger / documentation : assignée à un collaborateur / branche
+# issue : tâche à faire / bug à corriger / documentation  : assignée à un collaborateur / branche
